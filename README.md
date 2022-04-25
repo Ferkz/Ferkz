@@ -1,12 +1,4 @@
-### Hi there 👋 /Olá eu sou o Luis Fernando
-
-- 🔭 I’m currently working on ...Finging...
-- 🌱 I’m currently learning ...js, react, python
-- 🤔 I’m looking for help with ...
-- 💬 contact fermon1952@gmail.com
-- 📫 How to reach me: ... instagram kr_ferkz
-- 😄 Pronouns: Ele/
--->
+### Hi there Luis
 
 <div align="center">
   <a href="https://github.com/ferkz">
